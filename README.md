@@ -1,10 +1,3 @@
-### Hi 👋
-
-I'm a Software Engineer in the Coastal Informatics team at [CSIRO](https://www.csiro.au).
-
-![Dan's GitHub stats](https://github-readme-stats.vercel.app/api?username=danwild&theme=graywhite&show_icons=true)
-
-
 <p>
   <a href="https://www.linkedin.com/in/danw1ld" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
