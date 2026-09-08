@@ -1,2 +1,12 @@
-[![Dan's LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danw1ld)
-[![Dan's Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://danw1ld.medium.com)
+# Dan Wild
+
+Senior AI / Software Engineer and founder of [Total Parks](https://totalparks.com.au).
+
+Currently building production systems across applied AI, agents/MCP, TypeScript/Python
+and AWS. Previously a lead engineer on an AI-for-science product at CSIRO.
+
+Most of my recent commercial work is private. Public repositories here mostly reflect
+earlier work in scientific software, geospatial systems and data visualisation.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danw1ld)
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)](https://cursor.com/@danwild)
